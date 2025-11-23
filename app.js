@@ -11,7 +11,7 @@ const i18n = {
     "brand.subtitle":"Estudiante de Administración",
     "nav.home":"Inicio","nav.profile":"Perfil","nav.education":"Educación","nav.contact":"Contacto",
     "download":"Descargar información","contact.me":"Contactar",
-    "greeting":"¡Hola! Soy Cielo Geraldine Romero Peña",
+    "greeting":"Cielo Geraldine Romero Peña",
     "intro":"Tengo 18 años y soy de Cusco. Estudio Administración en la Universidad Católica San Pablo. Soy creativa, adaptable y empática. Me apasionan el arte, el teatro, el marketing y la gastronomía.",
     "quote":"“El proceso que hoy te pesa, mañana será tu mayor recompensa.”",
     "sections.profile":"Perfil","sections.education":"Educación","sections.contact":"Contacto",
